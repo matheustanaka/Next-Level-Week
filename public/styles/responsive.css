@@ -32,6 +32,12 @@
     #page-create-point .field-group .field + .field {
         margin-left: 0;
     } 
+    .items-grid {
+        grid-template-columns: 1fr;
+    }
+    form legend {
+        display: block;
+    }
 }
 @media (min-width: 1700px) {
     #page-home{
