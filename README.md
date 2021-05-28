@@ -36,3 +36,9 @@ Ecoleta is a simple marketplace of waste collection. The idea behind the applica
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Nunjucks](https://mozilla.github.io/nunjucks/)
+
+## License & Copyright
+
+---
+
+Licensed under the [MIT License](LICENSE)
