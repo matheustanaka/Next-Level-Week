@@ -4,7 +4,7 @@
 
 ---
 
-Ecoleta is a simple marketplace of waste collection. The idea behind the application is basically connect people with a business take away the garbage.
+Ecoleta is a simple marketplace of waste collection. The idea behind the application is basically connect people with a business to take away the garbage.
 
 ## Screenshots
 
